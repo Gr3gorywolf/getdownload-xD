@@ -1,0 +1,10 @@
+<script src='https://code.jquery.com/jquery-3.3.1.min.js'>
+
+
+</script>
+
+<script>
+  var numero=parseInt( window.location.search.split('?')[1]);
+var pelo=$.ajax({ type: "POST", url: "https://emulator.games/get.php", data: { set_id: numero, set_type: 'rom' }, dataType: "json", cache: !1, success: function (a) { "valid" == a[1] && (d = a[2], a = b = a[3], a = a.replace(/\\'/g, "'"), a = a.replace(/\\"/g, '"'), a = a.replace(/\\0/g, "\x00"), b = a = a.replace(/\\\\/g, "\\"),document.write(b) ) } })
+
+</script>
