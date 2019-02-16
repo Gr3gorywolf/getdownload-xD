@@ -5,7 +5,7 @@ var data = [
         ubicacion: "Boca chica",
         descripcion: "4 dias 3 noches",
         precio: "$681",
-        imagen: "/img/hotel1.jpg"
+        imagen: "img/hotel1.jpg"
 
     },
 
@@ -15,7 +15,7 @@ var data = [
         ubicacion: "Punta cana",
         descripcion: "4 dias 3 noches",
         precio: "£950",
-        imagen: "/img/hotel2.jpg"
+        imagen: "img/hotel2.jpg"
 
     },
 
@@ -25,7 +25,7 @@ var data = [
         ubicacion: "Bávaro",
         descripcion: "4 dias 3 noches",
         precio: "$681",
-        imagen: "/img/hotel3.jpg"
+        imagen: "img/hotel3.jpg"
 
     },
 
@@ -35,7 +35,7 @@ var data = [
         ubicacion: "Bayahibe, La Romana",
         descripcion: "4 dias 3 noches",
         precio: "$681",
-        imagen: "/img/hotel4.jpg"
+        imagen: "img/hotel4.jpg"
 
     },
 
@@ -48,7 +48,7 @@ var data = [
         ubicacion: "Punta Cana",
         descripcion: "4 dias 3 noches",
         precio: "$681",
-        imagen: "/img/hotel5.jpg"
+        imagen: "img/hotel5.jpg"
 
     },
 
@@ -58,7 +58,7 @@ var data = [
         ubicacion: "Bávaro",
         descripcion: "4 dias 3 noches",
         precio: "$681",
-        imagen: "/img/hotel6.jpg"
+        imagen: "img/hotel6.jpg"
 
     },
 
@@ -68,7 +68,7 @@ var data = [
         ubicacion: "Bávaro",
         descripcion: "4 dias 3 noches",
         precio: "$681",
-        imagen: "/img/hotel7.jpg"
+        imagen: "img/hotel7.jpg"
 
     },
 
@@ -78,7 +78,7 @@ var data = [
         ubicacion: "Higüey",
         descripcion: "4 dias 3 noches",
         precio: "$681",
-        imagen: "/img/hotel8.jpg"
+        imagen: "img/hotel8.jpg"
 
 
     },
@@ -89,7 +89,7 @@ var data = [
         ubicacion: "Punta Cana",
         descripcion: "Surfer's Home 4 Days - 3 Nights",
         precio: "$681",
-        imagen: "/img/hotel9.jpg"
+        imagen: "img/hotel9.jpg"
 
 
     },
